@@ -16,7 +16,7 @@
   ],
   "action": {
     "default_title": "DopaBlock",
-    "default_popup": "https://selekode.github.io/dopablock/popup.html"
+    "default_popup": "popup.html"
   },
   "declarative_net_request": {
     "rule_resources": [
